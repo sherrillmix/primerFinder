@@ -23,4 +23,4 @@ Example usage:
 ```
 ./primerFinder.py -i inputExample.txt -p primersExample.txt -v
 ```
-The commands generates a csv file of position,fragmentLength in output.csv (use -o or --output to change).
+The commands generates a csv file of position,fragmentLength in output.csv (use `-o` or `--output` to change).
