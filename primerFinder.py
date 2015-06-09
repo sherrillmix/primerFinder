@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import ahoCorasick
 import compareLists
 import argparse
